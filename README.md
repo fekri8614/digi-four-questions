@@ -2,7 +2,7 @@
 
 Tips for using:
 
-*To visit the code, you can [click here](https://github.com/fekri8614/digi-four-questions/tree/master)*
+*To visit the codes, you can [click here](https://github.com/fekri8614/digi-four-questions/tree/master)*
 
 **answers**:
 
